@@ -18,7 +18,7 @@ For internship evaluation, you can directly access the Admin Dashboard using the
 
 | | Demo Credentials |
 |---|---|
-| **Admin Login** | https://oibsip-phi-eight.vercel.app/admin/login |
+| **Admin Login** | https://oibsip-phi-eight.vercel.app/ |
 | **Email** | `admin@pizza.com` |
 | **Password** | `Admin@123` |
 
@@ -419,7 +419,7 @@ For a quick demonstration, evaluators can follow these steps:
 ### Admin Demo
 
 1. Open:
-   `https://oibsip-phi-eight.vercel.app/admin/login`
+   `https://oibsip-phi-eight.vercel.app/`
 2. Use:
 
 ```text
@@ -466,10 +466,10 @@ This project demonstrates full-stack development concepts including frontend dev
 ## 👨‍💻 Project Links
 
 **Live Application:**  
-https://oibsip-phi-eight.vercel.app/login
+https://oibsip-phi-eight.vercel.app/
 
 **Admin Login:**  
-https://oibsip-phi-eight.vercel.app/admin/login
+https://oibsip-phi-eight.vercel.app/
 
 **Backend Health Check:**  
 https://oibsip-vs59.onrender.com/api/health
