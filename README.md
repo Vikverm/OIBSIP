@@ -5,7 +5,7 @@
 ## 🚀 Live Demo
 
 **Frontend:**  
-https://oibsip-phi-eight.vercel.app/login
+https://oibsip-phi-eight.vercel.app/
 
 **Backend API:**  
 https://oibsip-vs59.onrender.com/api/health
